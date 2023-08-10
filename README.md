@@ -44,3 +44,9 @@ Another way to add ___HORIZONTAL RULES___ in our document markdown is by using t
 <!--Escape Character Rule using Backslash-->
 
 This is an example of the *text with an asterisk*. When we dont want to it to be italized. We want to use the backslash \ to escape the rule of using an opening \*asterisk * and closing \*asterisk* to enclose the text contents.
+
+---
+<!--Blackquote Rule-->
+> We use the greater than symbol to display a block of a text as a a quote with a background and line on the left side. 
+
+> "You don't have to be great to start, but you need to start to be great". __Unknown Author__
