@@ -64,7 +64,7 @@ __NOTE__ We can add a baloon tip description to our link by using double quotes 
 <!--UNORDERED LIST-->
 * Item 1 * This is going to be our list item 1
    * This is our list item 1 child item 1
-   * This is our list item 2 child item 2
+   * This is our list item 1 child item 2
 * Item 2 * This is going to be our list item 2
    * This is our list item 2 child item 1
    * This is our list item 2 child item 2
