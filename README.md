@@ -1,4 +1,4 @@
-# INTRODUCTION TO MARKDOWN
+![image](https://github.com/MalotzB/Intro-to-MarkDown/assets/138592108/b6279d55-24ec-457f-b3ce-d9c5c6a68751)# INTRODUCTION TO MARKDOWN
 
 <!--HEADING-->
 # Heading 1
@@ -57,3 +57,24 @@ This is an example of the *text with an asterisk*. When we dont want to it to be
 **NOTE** We would want to put the link description inside of square brackets and the link to be resource inside of two open and close parenthesis https://github.com/MalotzB/PORTFOLIO
 
 __NOTE__ We can add a baloon tip description to our link by using double quotes after the link to be resource. https://github.com/MalotzB/PORTFOLIO
+
+---
+<!--List Item Rule-->
+
+<!--UNORDERED LIST-->
+* Item 1 * This is going to be our list item 1
+   * This is our list item 1 child item 1
+   * This is our list item 2 child item 2
+* Item 2 * This is going to be our list item 2
+   * This is our list item 2 child item 1
+   * This is our list item 2 child item 2
+* Item 3 * This is going to be our list item 3
+   * This is our list item 3 child item 1
+   * This is our list item 3 child item 2
+* Item 4 * This is going to be our list item 4
+   * This is our list item 4 child item 1
+   * This is our list item 4 child item 2
+* Item 5 * This is going to be our list item 5
+   * This is our list item 5 child item 1
+   * This is our list item 5 child item 2
+
