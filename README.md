@@ -50,3 +50,10 @@ This is an example of the *text with an asterisk*. When we dont want to it to be
 > We use the greater than symbol to display a block of a text as a a quote with a background and line on the left side. 
 
 > "You don't have to be great to start, but you need to start to be great". __Unknown Author__
+
+---
+<!--Link Rule-->
+
+**NOTE** We would want to put the link description inside of square brackets and the link to be resource inside of two open and close parenthesis https://github.com/MalotzB/PORTFOLIO
+
+__NOTE__ We can add a baloon tip description to our link by using double quotes after the link to be resource. https://github.com/MalotzB/PORTFOLIO
