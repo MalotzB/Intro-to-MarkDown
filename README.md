@@ -39,3 +39,8 @@ This is an example of a ~~strikethrough~~ text, anything in between the double t
 We can add triple hypens to be able to create a horizontal rule for separating content.
 
 Another way to add ___HORIZONTAL RULES___ in our document markdown is by using threee underscores.
+
+---
+<!--Escape Character Rule using Backslash-->
+
+This is an example of the *text with an asterisk*. When we dont want to it to be italized. We want to use the backslash \ to escape the rule of using an opening \*asterisk * and closing \*asterisk* to enclose the text contents.
