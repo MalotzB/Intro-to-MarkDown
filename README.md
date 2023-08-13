@@ -116,3 +116,55 @@ __NOTE__ We can add a baloon tip description to our link by using double quotes 
 
 <p> This is a paragraph tag with an inline code block example opening and closing tags </p>
    
+---
+<!--IMAGE RULE-->
+![This is an image](https://www.alleycat.org/wp-content/uploads/2019/03/FELV-cat.jpg "Link to a cat image")
+
+---
+<!--GITHUB FLAVOR SET OF CODE BLOCK-->
+
+---
+<!--CODE BLOCK FOR GITHUB DOCUMENTATION-->
+
+```install npm 
+npm install
+
+npm start
+```
+
+***NOTE*** ! You can only specify some syntax code blocks for different languages
+
+```javascript
+function jsAdd (num1, num2){
+return num1 + num2;
+}
+```
+```python
+
+def phythonAdd(num1, num2):
+ return num1 + numb2;
+
+```
+```C#
+public static int sum(int mum1, int num2)
+{
+int total;
+total = num1+ num2;
+return total;
+}
+```
+---
+<!--TABLE RULES-->
+
+|Name|Nickname|Email|
+|:----:|:--------:|:----------:|
+|Jo    |Joe       | jogmail.com
+|Lot   |Malotz    |mb@gmail.com 
+
+---
+<!--TASK LISTS-->
+* [x] Task 1
+* [x] Task 2
+* [x] Task 3
+* [x] Task 4
+
